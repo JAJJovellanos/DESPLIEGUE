@@ -15,10 +15,10 @@
                         <a class="nav-link" href="index.php">PRINCIPAL<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="java.php">JAVA</a>
+                        <a class="nav-link" href="index.php?ctl=java">JAVA</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="C.php">C</a>
+                        <a class="nav-link" href="index.php?ctl=c">C</a>
                     </li>
 
                 </ul>

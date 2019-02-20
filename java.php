@@ -15,12 +15,7 @@
 
 <body>
 
-
-
-
     <div class="container">
-
-        <?php include("cabecera.inc"); ?>
 
         <div class="text-center border border-top-5  mb-4">
 
@@ -53,16 +48,6 @@
                 </div>
 
             </div>
-        </div>
-
-        <div>
-
-            <footer class="text-center">
-
-                <?php include("footer.inc"); ?>
-
-            </footer>
-
         </div>
     </div>
 

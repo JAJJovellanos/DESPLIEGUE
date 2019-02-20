@@ -19,11 +19,9 @@
 
     <div class="container">
 
-        <?php include("cabecera.inc"); ?>
-
         <div class="text-center border border-top-5  mb-4">
 
-            <h1>Lenguaje de programación <span class="badge badge-secondary">JAVA</span></h1>
+            <h1>Lenguaje de programación <span class="badge badge-secondary">C</span></h1>
 
             <img src="./img/javaII.png" class="rounded my-4" alt="...">
 
@@ -54,16 +52,6 @@
                 </div>
 
             </div>
-        </div>
-
-        <div>
-
-            <footer class="text-center">
-
-                <?php include("footer.inc"); ?>
-
-            </footer>
-
         </div>
     </div>
 
